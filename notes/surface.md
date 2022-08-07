@@ -1,5 +1,7 @@
 # Do we have to focus on surface biomarkers?
 
+- surfaceome
+
 ## Virus infection
 - Certain viruses have localized infections
 - Some viruses create systemic infection (viremia)
